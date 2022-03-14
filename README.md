@@ -8,4 +8,4 @@
 
 <h3>Funcinalidades </h1>
  Ao selecionar algum pokemon, o cart sumirar e aparecerar outro cart com dados do pokemon selecionado.
- Projeto Responsivo.
+<h3> Projeto Responsivo</h3>
